@@ -1,9 +1,9 @@
 [
     {
-        "title": "ABC",
-        "desc": "使用的技术栈有:React+React-router+axios+redux+React-redux+Redux-thunk+SCSS 做的一个响应式的网站，与后台交互，包含登录、注册、退出功能",
+        "title": "仿oppo官网",
+        "desc": "仿oppo官网，与后台交互，包含登录、注册、退出等功能",
         "imgName": "1",
-        "demoAddress": "haoqicat",
-        "codeAddress": "haoqicat"
+        "demoAddress": "jianli",
+        "codeAddress": "oppo"
     }
 ]

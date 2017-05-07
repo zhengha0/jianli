@@ -1,9 +1,21 @@
 [
     {
-        "title": "仿oppo官网",
+        "title": "仿oppo官网首页",
         "desc": "仿oppo官网，与后台交互，包含登录、注册、退出等功能",
-        "imgName": "1",
-        "demoAddress": "jianli",
+        "imgName": "2",
+        "demoAddress": "2",
+        "codeAddress": "oppo"
+    },{
+        "title": "仿oppo官网详情页",
+        "desc": "仿oppo官网，与后台交互，包含登录、注册、退出等功能",
+        "imgName": "3",
+        "demoAddress": "3",
+        "codeAddress": "oppo"
+    },{
+        "title": "仿oppo官网购物车",
+        "desc": "仿oppo官网，与后台交互，包含登录、注册、退出等功能",
+        "imgName": "4",
+        "demoAddress": "4",
         "codeAddress": "oppo"
     }
 ]
